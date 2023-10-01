@@ -304,7 +304,7 @@ class _InfoFormWidgetState extends State<InfoFormWidget> {
                                                         color:
                                                             FlutterFlowTheme.of(
                                                                     context)
-                                                                .primary,
+                                                                .primaryText,
                                                         fontSize: 32.0,
                                                         useGoogleFonts: GoogleFonts
                                                                 .asMap()
